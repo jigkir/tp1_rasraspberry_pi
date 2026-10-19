@@ -26,17 +26,4 @@ C:.
 │       tp1.ino
 │
 └───Kicad
-    │   Shema.pdf
-    │
-    └───tp1
-        │   tp1.kicad_pcb
-        │   tp1.kicad_prl
-        │   tp1.kicad_pro
-        │   tp1.kicad_sch
-        │   ~tp1.kicad_pro.lck
-        │   ~tp1.kicad_sch.lck
-        │
-        └───.history
-                .gitignore
-                README.txt
-                tp1.kicad_sch
+       Shema.pdf
